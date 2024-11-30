@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22283fb6-7a2c-448d-a287-508ceddda221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mousa-Lecture -49.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/Clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/Panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/StoryTray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/Task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pure-Lists/task/src/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snipp/Images/Git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/snipp/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +37,9 @@
     "Node.js.Task2.js.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Snipp",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Course/Mousa-Lecture -49",
+    "last_opened_file_path": "E:/Course/Mousa-Lecture -35/Css/chart.css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,7 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1732801276887</updated>
       <workItem from="1732801278085" duration="421000" />
-      <workItem from="1732906972967" duration="9597000" />
+      <workItem from="1732906972967" duration="10721000" />
+      <workItem from="1732921695695" duration="28000" />
+      <workItem from="1732939376459" duration="6425000" />
     </task>
     <servers />
   </component>
