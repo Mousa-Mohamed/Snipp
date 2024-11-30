@@ -1,0 +1,41 @@
+body {
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+:root {
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+.headerLogoText {
+    cursor: pointer;
+    padding: 10px;
+}
+ul :last-child {
+    padding:10px 20px;
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+.landButton {
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 20px 60px;
+    background:none ;
+}
+.landingTitle span {
+    font-size: larger;
+    font-weight: 1000;
+}
