@@ -7,9 +7,6 @@
     <list default="true" id="22283fb6-7a2c-448d-a287-508ceddda221" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Landing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pure-Lists/task/src/test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/Images/Git.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/node_modules/.bin/loose-envify" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/node_modules/.bin/loose-envify.cmd" beforeDir="false" />
@@ -7181,7 +7178,7 @@
       <workItem from="1732906972967" duration="10721000" />
       <workItem from="1732921695695" duration="28000" />
       <workItem from="1732939376459" duration="9340000" />
-      <workItem from="1732994415441" duration="6469000" />
+      <workItem from="1732994415441" duration="6770000" />
     </task>
     <servers />
   </component>
