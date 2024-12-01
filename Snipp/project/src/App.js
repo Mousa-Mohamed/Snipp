@@ -4,6 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import Header from "./Header";
 import Landing from "./Landing";
+import BackImages from "./BackImages";
+import Images from "./Images";
 
 
 export default function Project() {
@@ -11,6 +13,8 @@ export default function Project() {
         <>
             <Header />
             <Landing/>
+            <BackImages/>
+            <Images/>
         </>
     )
 }

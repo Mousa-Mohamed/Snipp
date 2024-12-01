@@ -20,6 +20,9 @@ a {
     text-decoration: none;
     display: inline-block;
 }
+/*.headerProject {*/
+/*    color: white;*/
+/*}*/
 .headerLogoText {
     cursor: pointer;
     padding: 10px;
@@ -30,12 +33,46 @@ ul :last-child {
     border-radius: 50px;
 }
 .landButton {
-    border: 1px solid gray;
+    border: 2px solid white;
     border-radius: 25px;
     padding: 20px 60px;
     background:none ;
+    transition: 0.3s;
+    color: white;
+}
+.landButton:hover {
+    background-color: white;
+    color: orangered;
 }
 .landingTitle span {
     font-size: larger;
     font-weight: 1000;
+}
+.landingProject {
+    background-image: url("../Images/technology-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.backProject {
+    padding: 100px 0;
+}
+.backTitle span{
+    font-weight: 1000;
+    padding:0 10px;
+    background-color: #f6efdc;
+    color: #e4be77;
+}
+.backButton {
+    border: 2px solid #fce7f1;
+    border-radius: 25px;
+    padding: 20px 60px;
+    background-color:#fce7f1 ;
+    transition: 0.3s;
+    color: orangered;
+}
+.backButton:hover {
+    background-color: white;
+    color: orangered;
+    border: 2px solid orangered;
 }

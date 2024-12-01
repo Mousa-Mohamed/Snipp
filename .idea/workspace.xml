@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22283fb6-7a2c-448d-a287-508ceddda221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/BackImages.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Images.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/Images/Git.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/node_modules/.bin/loose-envify" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/node_modules/.bin/loose-envify.cmd" beforeDir="false" />
@@ -7131,24 +7134,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.Task2.js.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Course/Mousa-Lecture -39/Css/store-home.css",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.Task2.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Course/Mousa-Lecture -39/Css/store-home.css&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Task2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Pure-Lists/task/src/Task2.js" working-dir="$PROJECT_DIR$/Pure-Lists/task/src">
       <method v="2" />
@@ -7178,7 +7181,8 @@
       <workItem from="1732906972967" duration="10721000" />
       <workItem from="1732921695695" duration="28000" />
       <workItem from="1732939376459" duration="9340000" />
-      <workItem from="1732994415441" duration="7072000" />
+      <workItem from="1732994415441" duration="7393000" />
+      <workItem from="1733024880691" duration="7606000" />
     </task>
     <servers />
   </component>
