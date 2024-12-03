@@ -7,6 +7,7 @@ body {
     color: black;
 }
 :root {
+    --mainPadding:150px 0;
 }
 ul {
     list-style: none;
@@ -52,7 +53,15 @@ ul :last-child {
     color: white;
 }
 .backProject {
-    padding: 100px 0;
+    padding: var(--mainPadding);
+    height: 120vh;
+}
+.backProject h3 {
+    width: 85%;
+}
+.backTitle {
+    display: flex;
+    justify-content: center;
 }
 .backTitle span{
     font-weight: 1000;
@@ -80,9 +89,10 @@ ul :last-child {
     width: 100%;
 }
 .imgAll .bottom {
-    display: flex;
     align-items: center;
     gap: 20px;
+    font-size: small;
+    display: none;
 }
 .imgAll .bottom .bottom-left {
     width: 15%;
@@ -96,10 +106,6 @@ ul :last-child {
 .imgAll .bottom, .imgAll .top {
     padding: 10px;
 }
-.imgAll .bottom {
-    font-size: small;
-    display: none;
-}
 .imgAll .bottom span {
     color: gray;
 }
@@ -110,11 +116,104 @@ ul :last-child {
 .imgAll .top span {
     color: gray;
 }
-.middleImages1 img {
+.middleImages1 .middle img {
     height: 35vh;
     width: 550px;
 }
-.middleImages2 img {
+.middleImages2 .middle img {
     height: 40vh;
     width: 300px;
+}
+.imgAll:hover .top {
+    display: block;
+    transition: 0.5s;
+}
+.imgAll {
+    transition: 0.5s;
+}
+.imgAll:hover .bottom {
+    display: flex;
+    transition: 0.5s;
+}
+.imgAll:hover {
+    transform: scale(1.1);
+}
+.imagesProject {
+    position: absolute;
+    top: 85%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.servicesProject {
+    height: 100vh;
+    padding: var(--mainPadding);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 150px;
+    text-align: center;
+}
+.servicesProject .servTop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.servicesProject .servTop span {
+    color: #a8a7a7;
+    font-size: small;
+    letter-spacing: 2px;
+}
+.servicesProject .servTop h3 {
+    font-weight: bold;
+    width: 50%;
+}
+.servicesProject .servTop p {
+    font-size: small;
+    width: 55%;
+    color: #a8a7a7;
+}
+.servicesProject .servBottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.servicesProject .servBottom .iconCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.servicesProject .servBottom .iconCard p {
+    font-size: small;
+    color:  #a8a7a7;
+    width: 80%;
+}
+.servicesProject .servBottom .iconCardIcon {
+    font-size: xx-large;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 50%;
+    width: 50px;
+}
+.servicesProject .servBottom .Icon1 {
+    color: #29bae4;
+    background-color: #def4fb;
+}
+.servicesProject .servBottom .Icon2 {
+    color: #ee76ad;
+    background-color: #fce7f1;
+}
+.servicesProject .servBottom .Icon3 {
+    color: #efac78;
+    background-color: #fdf2e9;
+}
+.servicesProject .servBottom .Icon4 {
+    color: #79efb4;
+    background-color: #eafdf4;
 }
