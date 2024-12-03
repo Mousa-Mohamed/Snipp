@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="headerProject container d-flex justify-content-between align-items-center p-5 fixed-top text-light ">
+        <header className="headerProject container d-flex justify-content-between align-items-center p-5 text-light ">
             <div className="headerLogo">
                 <p className="headerLogoText m-0 text-uppercase">
                     Snipp

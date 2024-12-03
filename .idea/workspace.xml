@@ -6,11 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="22283fb6-7a2c-448d-a287-508ceddda221" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/BackImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Customers.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Images.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Landing.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Subcribe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Subscribe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Works.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/Images/Git.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snipp/node_modules/.bin/loose-envify" beforeDir="false" />
@@ -7186,7 +7188,8 @@
       <workItem from="1732994415441" duration="7393000" />
       <workItem from="1733024880691" duration="7788000" />
       <workItem from="1733108582612" duration="7144000" />
-      <workItem from="1733186151019" duration="7957000" />
+      <workItem from="1733186151019" duration="8125000" />
+      <workItem from="1733229239420" duration="16573000" />
     </task>
     <servers />
   </component>

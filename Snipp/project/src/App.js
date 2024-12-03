@@ -6,7 +6,9 @@ import Landing from "./Landing";
 import BackImages from "./BackImages";
 import Images from "./Images";
 import Services from "./Services";
-import Subcribe from "./Subcribe";
+import Subscribe from "./Subscribe";
+import Works from "./Works";
+import Customers from "./Customers";
 
 
 export default function Project() {
@@ -17,7 +19,9 @@ export default function Project() {
             <BackImages/>
             <Images/>
             <Services/>
-            <Subcribe/>
+            <Subscribe/>
+            <Works/>
+            <Customers/>
         </>
     )
 }
