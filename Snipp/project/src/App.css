@@ -364,4 +364,64 @@ ul :last-child {
     color: orangered;
     border: 2px solid orangered;
 }
+.customersProjectBg {
+    background-color: #f8faff;
+}
+.customersProject{
+    padding: var(--mainPadding);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 150px;
+    overflow: hidden;
+}
+.customersProject .customersTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    width: 50%;
+}
+.customersProject img {
+    width:30%;
+    border-radius: 50%;
+}
+.customersProject .customersTitle span {
+    color: #a8a7a7;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.customersProject .customersTitle h3 {
+    font-weight: bold;
+    line-height: 1.5;
+}
+.customersProject .customersTitle p {
+    font-size: small;
+    color: #a8a7a7;
+}
+.customersProject .customersCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.customersProject .customersCards .customersCard {
+    background-color: white;
+    padding: 45px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    box-shadow: 1px 1px 10px 1px #dcd9d9;
+}
+.customersProject .customersCards .customersCard p {
+    font-size: small;
+    color:  #a8a7a7;
+}
+
 
