@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22283fb6-7a2c-448d-a287-508ceddda221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Achieve.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/BackImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Blog.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Customers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snipp/project/src/Footer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Images.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Snipp/project/src/Landing.js" afterDir="false" />
@@ -7191,7 +7194,8 @@
       <workItem from="1733186151019" duration="8125000" />
       <workItem from="1733229239420" duration="16940000" />
       <workItem from="1733372277299" duration="954000" />
-      <workItem from="1733713566683" duration="3608000" />
+      <workItem from="1733713566683" duration="3940000" />
+      <workItem from="1733802627756" duration="7137000" />
     </task>
     <servers />
   </component>

@@ -31,7 +31,7 @@ a {
     cursor: pointer;
     padding: 10px;
 }
-ul :last-child {
+.headerProject ul :last-child {
     padding:10px 20px;
     border: 1px solid gray;
     border-radius: 50px;
@@ -422,6 +422,208 @@ ul :last-child {
 .customersProject .customersCards .customersCard p {
     font-size: small;
     color:  #a8a7a7;
+    line-height: 1.8;
 }
+.customersProject .customersCards .customersCard h6 {
+    color: #fa8c64;
+    margin: -5px;
+}
+.customersProject .customersCards .customersCard span {
+    color: #fac4b0;
+}
+.achieveProjectBg {
+    background-color: #29bae4;
+}
+.achieveProject{
+    padding: var(--mainPadding);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 150px;
+    color: white;
+    text-align: center;
+}
+.achieveProject .achieveTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+}
+.achieveProject .achieveTitle h3 {
+    font-weight: bold;
+    line-height: 1.5;
+}
+.achieveProject .achieveTitle p {
+    font-size: small;
+    color: #e4e4e4;
+}
+.achieveProject .achieveCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.achieveProject .achieveCards .achieveCard {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.achieveProject .achieveCards .achieveCard p {
+    font-size: small;
+    color: #e4e4e4;
+    line-height: 1.8;
+}
+.achieveProject .achieveCards .achieveCard span {
+    font-size: xx-large;
+}
+.blogProjectBg {
+    background-color: #f8faff;
+}
+.blogProject{
+    padding: var(--mainPadding);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 150px;
+}
+.blogProject .blogTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    width: 50%;
+}
+.blogProject img {
+    width:100%;
+    height: 35vh;
+}
+.blogProject .blogTitle span {
+    color: #a8a7a7;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.blogProject .blogTitle h3 {
+    font-weight: bold;
+}
+.blogProject .blogTitle p {
+    font-size: small;
+    color: #a8a7a7;
+}
+.blogProject .blogCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.blogProject .blogCards .blogCard {
+    background-color: white;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 1px 1px 10px 1px #dcd9d9;
+}
+.blogProject .blogCards .blogCard p {
+    font-size: small;
+    line-height: 1.8;
+    padding: 20px;
+    width: 85%;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.blogProject .blogCards .blogCard span {
+    color: #bab9b8;
+    font-size: small;
+    padding: 0 20px;
+}
+.footerProjectBg {
+    background-color: #ee76ad;
+}
+.footerProject {
+    padding: var(--mainPadding);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 150px;
+    color: white;
+}
+.footerProject .footerCards {
+    display: flex;
+    gap: 100px;
+}
+.footerProject .footerCard {
+    max-width:360px;
+}
+.footerProject .footerCards ul {
+    padding: 0;
+}
+.footerProject .footerCards ul li {
+    display: block;
+    color: #e3e3e3;
+    padding: 10px 20px 10px 0;
+    transition: 0.3s;
+}
+.footerProject .footerCards ul li:hover {
+    color: white;
+}
+.footerProject .footerCards .card1 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.footerProject .footerCards .card1 p {
+    width: 85%;
+    color: #e3e3e3;
+    line-height: 1.8;
+}
+.footerProject .footerCards .card2 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.footerProject .footerCards .card3 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: small;
+}
+.footerProject .footerCards .card3 p:hover {
+    color: white;
+}
+.footerProject .footerCards .card3 :first-child {
+    margin-bottom: 40px;
+}
+.footerProject .footerCards .card3 p {
+    color: #e3e3e3;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.footerProject .footerCards .card4 {
+    display: flex;
+    gap: 20px;
+}
+.footerProject .footerCards .card4 .footerIcon {
+    padding: 10px;
+    background: #f67eb5;
+    border-radius: 50%;
+    width: 20px;
+}
+.footerProject .footerCopy {
+    text-align: center;
+    color: #e3e3e3;
+}
+
+
+
 
 

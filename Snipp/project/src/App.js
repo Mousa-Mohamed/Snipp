@@ -9,6 +9,9 @@ import Services from "./Services";
 import Subscribe from "./Subscribe";
 import Works from "./Works";
 import Customers from "./Customers";
+import Achieve from "./Achieve";
+import Blog from "./Blog";
+import Footer from "./Footer";
 
 
 export default function Project() {
@@ -22,6 +25,9 @@ export default function Project() {
             <Subscribe/>
             <Works/>
             <Customers/>
+            <Achieve/>
+            <Blog/>
+            <Footer/>
         </>
     )
 }
